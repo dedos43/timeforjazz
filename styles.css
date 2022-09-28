@@ -8,8 +8,9 @@
 /* Commons */
 html {
   font-size: calc(15px + 0.390625vw);
-  font-family: 'Nunito', sans-serif;
-
+  
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  
   color: var(--main-light-color);
   
   scroll-behavior: smooth; 
