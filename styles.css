@@ -123,8 +123,7 @@ h1 {
  * Home
  */
 .home {
-  <!--background-image: url('./assets/images/cuarteto.jpeg');-->
-  background-image: url('https://media.giphy.com/media/ICtmuwLLs1q48/giphy.gif');
+  background-image: url('./assets/images/cuarteto.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
