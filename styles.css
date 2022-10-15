@@ -259,6 +259,7 @@ h1 {
 .footer__social-container {
   width: min(600px, 100%);
   margin: 0 auto;
+  margin-right: 18px;
 }
 
 .footer__social-container > a {
