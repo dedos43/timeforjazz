@@ -85,7 +85,7 @@ h1 {
 
 .header__nav > li > a {
   color: var(--main-light-color);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   text-decoration: none;
 }
